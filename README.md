@@ -31,8 +31,8 @@ counter = 3
 
 **Part III**
 
-* 1 - Yes, we get the same output every time.
-* 2 - counter = 5
+* 1 - No, it is different
+* 2 - counter = 1,2,3,4,5
 
 ### Question 3
 
