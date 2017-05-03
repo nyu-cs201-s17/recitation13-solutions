@@ -26,7 +26,9 @@ Answers:
 **Part II**
 
 counter = 1
+
 counter = 3
+
 counter = 3
 
 **Part III**
