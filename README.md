@@ -32,7 +32,7 @@ counter = 3
 **Part III**
 
 * 1 - No, it is different
-* 2 - counter = 1,2,3,4,5
+* 2 - counter = 2,3,4,5
 
 ### Question 3
 
