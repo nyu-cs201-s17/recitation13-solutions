@@ -7,11 +7,14 @@ Recitation 13: Solutions
 
 Outputs:
 
-* 32040 - N
+* 32040 - This is a possible output. 
 * 34002 - N
 * 30402 - Y
 * 23040 - Y
 * 40302 - N
+
+As long as 30 is printed before 40, the output is possible. The 2 can be pretty much anywhere. 
+
 
 ### Question 2
 
@@ -34,7 +37,7 @@ counter = 3
 **Part III**
 
 * 1 - No, it is different
-* 2 - counter = 2,3,4,5
+* 2 - counter = 1,2,3,4,5 (1 is also possible - this would happen if all child processes termintated before the control was returned to the parent process; when the parent process runs the handler, the value is incremented to 1 and then no more child processes would terminate to cause the handler to run again) 
 
 ### Question 3
 
